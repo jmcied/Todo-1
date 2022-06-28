@@ -1,0 +1,19 @@
+{
+  "todoListCollection": [
+    {
+      "title": "eat"
+    },
+    {
+      "title": "sleep"
+    },
+    {
+      "title": "code"
+    },
+    {
+      "title": "repeat"
+    },
+    {
+      "title": "exercise"
+    }
+  ]
+}
